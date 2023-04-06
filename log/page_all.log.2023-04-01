@@ -1,0 +1,102 @@
+2023-04-01 01:59:15,788 INFO [root] [base.py | __init__:14] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="2b08506f29293f938d6feea952f85164")>
+2023-04-01 01:59:15,790 INFO [root] [base.py | __init__:14] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="2b08506f29293f938d6feea952f85164")>
+2023-04-01 01:59:15,790 INFO [root] [base.py | __init__:14] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="2b08506f29293f938d6feea952f85164")>
+2023-04-01 01:59:15,791 INFO [root] [base.py | __init__:14] - 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="2b08506f29293f938d6feea952f85164")>
+2023-04-01 01:59:16,805 INFO [root] [base.py | base_click:48] - 正在对[link text:登录]元素进行点击
+2023-04-01 01:59:16,805 INFO [root] [base.py | base_find:25] - 正在定位[link text:登录]
+2023-04-01 01:59:17,072 INFO [root] [page_login.py | login:36] - 正在调用TPshop登录业务方法，用户名：13800001111，密码：123123，验证码：8888
+2023-04-01 01:59:17,072 INFO [root] [base.py | base_find:25] - 正在定位[id:username]
+2023-04-01 01:59:17,087 INFO [root] [base.py | base_input:37] - 正在对[id:username]输入框进行清空
+2023-04-01 01:59:17,118 INFO [root] [base.py | base_input:39] - 正在对[id:username]输入框输入内容：13800001111
+2023-04-01 01:59:17,166 INFO [root] [base.py | base_find:25] - 正在定位[id:password]
+2023-04-01 01:59:17,177 INFO [root] [base.py | base_input:37] - 正在对[id:password]输入框进行清空
+2023-04-01 01:59:17,208 INFO [root] [base.py | base_input:39] - 正在对[id:password]输入框输入内容：123123
+2023-04-01 01:59:17,262 INFO [root] [base.py | base_find:25] - 正在定位[id:verify_code]
+2023-04-01 01:59:17,274 INFO [root] [base.py | base_input:37] - 正在对[id:verify_code]输入框进行清空
+2023-04-01 01:59:17,312 INFO [root] [base.py | base_input:39] - 正在对[id:verify_code]输入框输入内容：8888
+2023-04-01 01:59:18,372 INFO [root] [base.py | base_click:48] - 正在对[class name:J-login-submit]元素进行点击
+2023-04-01 01:59:18,372 INFO [root] [base.py | base_find:25] - 正在定位[class name:J-login-submit]
+2023-04-01 01:59:18,422 INFO [root] [base.py | base_find:25] - 正在定位[css selector:.layui-layer-content]
+2023-04-01 01:59:18,584 INFO [root] [base.py | base_get_text:58] - 正在获取('css selector', '.layui-layer-content')元素文本：账号不存在!
+2023-04-01 01:59:20,589 INFO [root] [base.py | base_click:48] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-04-01 01:59:20,589 INFO [root] [base.py | base_find:25] - 正在定位[css selector:.layui-layer-btn0]
+2023-04-01 01:59:20,633 INFO [root] [page_login.py | login:36] - 正在调用TPshop登录业务方法，用户名：，密码：123123，验证码：8888
+2023-04-01 01:59:20,633 INFO [root] [base.py | base_find:25] - 正在定位[id:username]
+2023-04-01 01:59:20,643 INFO [root] [base.py | base_input:37] - 正在对[id:username]输入框进行清空
+2023-04-01 01:59:20,658 INFO [root] [base.py | base_input:39] - 正在对[id:username]输入框输入内容：
+2023-04-01 01:59:20,710 INFO [root] [base.py | base_find:25] - 正在定位[id:password]
+2023-04-01 01:59:20,710 INFO [root] [base.py | base_input:37] - 正在对[id:password]输入框进行清空
+2023-04-01 01:59:20,748 INFO [root] [base.py | base_input:39] - 正在对[id:password]输入框输入内容：123123
+2023-04-01 01:59:20,795 INFO [root] [base.py | base_find:25] - 正在定位[id:verify_code]
+2023-04-01 01:59:20,795 INFO [root] [base.py | base_input:37] - 正在对[id:verify_code]输入框进行清空
+2023-04-01 01:59:20,826 INFO [root] [base.py | base_input:39] - 正在对[id:verify_code]输入框输入内容：8888
+2023-04-01 01:59:21,895 INFO [root] [base.py | base_click:48] - 正在对[class name:J-login-submit]元素进行点击
+2023-04-01 01:59:21,895 INFO [root] [base.py | base_find:25] - 正在定位[class name:J-login-submit]
+2023-04-01 01:59:21,932 INFO [root] [base.py | base_find:25] - 正在定位[css selector:.layui-layer-content]
+2023-04-01 01:59:21,955 INFO [root] [base.py | base_get_text:58] - 正在获取('css selector', '.layui-layer-content')元素文本：用户名不能为空!
+2023-04-01 01:59:23,972 INFO [root] [base.py | base_click:48] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-04-01 01:59:23,972 INFO [root] [base.py | base_find:25] - 正在定位[css selector:.layui-layer-btn0]
+2023-04-01 01:59:24,015 INFO [root] [page_login.py | login:36] - 正在调用TPshop登录业务方法，用户名：17600682222，密码：123121，验证码：8888
+2023-04-01 01:59:24,016 INFO [root] [base.py | base_find:25] - 正在定位[id:username]
+2023-04-01 01:59:24,023 INFO [root] [base.py | base_input:37] - 正在对[id:username]输入框进行清空
+2023-04-01 01:59:24,041 INFO [root] [base.py | base_input:39] - 正在对[id:username]输入框输入内容：17600682222
+2023-04-01 01:59:24,094 INFO [root] [base.py | base_find:25] - 正在定位[id:password]
+2023-04-01 01:59:24,094 INFO [root] [base.py | base_input:37] - 正在对[id:password]输入框进行清空
+2023-04-01 01:59:24,129 INFO [root] [base.py | base_input:39] - 正在对[id:password]输入框输入内容：123121
+2023-04-01 01:59:24,176 INFO [root] [base.py | base_find:25] - 正在定位[id:verify_code]
+2023-04-01 01:59:24,183 INFO [root] [base.py | base_input:37] - 正在对[id:verify_code]输入框进行清空
+2023-04-01 01:59:24,207 INFO [root] [base.py | base_input:39] - 正在对[id:verify_code]输入框输入内容：8888
+2023-04-01 01:59:25,245 INFO [root] [base.py | base_click:48] - 正在对[class name:J-login-submit]元素进行点击
+2023-04-01 01:59:25,245 INFO [root] [base.py | base_find:25] - 正在定位[class name:J-login-submit]
+2023-04-01 01:59:25,278 INFO [root] [base.py | base_find:25] - 正在定位[css selector:.layui-layer-content]
+2023-04-01 01:59:25,422 INFO [root] [base.py | base_get_text:58] - 正在获取('css selector', '.layui-layer-content')元素文本：密码错误!
+2023-04-01 01:59:27,439 INFO [root] [base.py | base_click:48] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-04-01 01:59:27,439 INFO [root] [base.py | base_find:25] - 正在定位[css selector:.layui-layer-btn0]
+2023-04-01 01:59:27,486 INFO [root] [page_login.py | login:36] - 正在调用TPshop登录业务方法，用户名：13800001111，密码：，验证码：8888
+2023-04-01 01:59:27,487 INFO [root] [base.py | base_find:25] - 正在定位[id:username]
+2023-04-01 01:59:27,491 INFO [root] [base.py | base_input:37] - 正在对[id:username]输入框进行清空
+2023-04-01 01:59:27,506 INFO [root] [base.py | base_input:39] - 正在对[id:username]输入框输入内容：13800001111
+2023-04-01 01:59:27,573 INFO [root] [base.py | base_find:25] - 正在定位[id:password]
+2023-04-01 01:59:27,573 INFO [root] [base.py | base_input:37] - 正在对[id:password]输入框进行清空
+2023-04-01 01:59:27,590 INFO [root] [base.py | base_input:39] - 正在对[id:password]输入框输入内容：
+2023-04-01 01:59:27,623 INFO [root] [base.py | base_find:25] - 正在定位[id:verify_code]
+2023-04-01 01:59:27,642 INFO [root] [base.py | base_input:37] - 正在对[id:verify_code]输入框进行清空
+2023-04-01 01:59:27,657 INFO [root] [base.py | base_input:39] - 正在对[id:verify_code]输入框输入内容：8888
+2023-04-01 01:59:28,726 INFO [root] [base.py | base_click:48] - 正在对[class name:J-login-submit]元素进行点击
+2023-04-01 01:59:28,726 INFO [root] [base.py | base_find:25] - 正在定位[class name:J-login-submit]
+2023-04-01 01:59:28,762 INFO [root] [base.py | base_find:25] - 正在定位[css selector:.layui-layer-content]
+2023-04-01 01:59:28,783 INFO [root] [base.py | base_get_text:58] - 正在获取('css selector', '.layui-layer-content')元素文本：密码不能为空!
+2023-04-01 01:59:30,803 INFO [root] [base.py | base_click:48] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-04-01 01:59:30,803 INFO [root] [base.py | base_find:25] - 正在定位[css selector:.layui-layer-btn0]
+2023-04-01 01:59:30,842 INFO [root] [page_login.py | login:36] - 正在调用TPshop登录业务方法，用户名：13800001111，密码：123123，验证码：
+2023-04-01 01:59:30,842 INFO [root] [base.py | base_find:25] - 正在定位[id:username]
+2023-04-01 01:59:30,842 INFO [root] [base.py | base_input:37] - 正在对[id:username]输入框进行清空
+2023-04-01 01:59:30,873 INFO [root] [base.py | base_input:39] - 正在对[id:username]输入框输入内容：13800001111
+2023-04-01 01:59:30,926 INFO [root] [base.py | base_find:25] - 正在定位[id:password]
+2023-04-01 01:59:30,939 INFO [root] [base.py | base_input:37] - 正在对[id:password]输入框进行清空
+2023-04-01 01:59:30,956 INFO [root] [base.py | base_input:39] - 正在对[id:password]输入框输入内容：123123
+2023-04-01 01:59:30,994 INFO [root] [base.py | base_find:25] - 正在定位[id:verify_code]
+2023-04-01 01:59:31,009 INFO [root] [base.py | base_input:37] - 正在对[id:verify_code]输入框进行清空
+2023-04-01 01:59:31,023 INFO [root] [base.py | base_input:39] - 正在对[id:verify_code]输入框输入内容：
+2023-04-01 01:59:32,064 INFO [root] [base.py | base_click:48] - 正在对[class name:J-login-submit]元素进行点击
+2023-04-01 01:59:32,064 INFO [root] [base.py | base_find:25] - 正在定位[class name:J-login-submit]
+2023-04-01 01:59:32,099 INFO [root] [base.py | base_find:25] - 正在定位[css selector:.layui-layer-content]
+2023-04-01 01:59:32,121 INFO [root] [base.py | base_get_text:58] - 正在获取('css selector', '.layui-layer-content')元素文本：验证码不能为空!
+2023-04-01 01:59:32,122 ERROR [root] [test_login.py | test_login:61] - 断言错误，错误信息：'验证码不1能为空!' not found in '验证码不能为空!'
+2023-04-01 01:59:32,122 ERROR [root] [base.py | base_get_img:69] - 正在进行截图操作!
+2023-04-01 01:59:34,304 INFO [root] [base.py | base_click:48] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-04-01 01:59:34,304 INFO [root] [base.py | base_find:25] - 正在定位[css selector:.layui-layer-btn0]
+2023-04-01 01:59:34,343 INFO [root] [page_login.py | login:36] - 正在调用TPshop登录业务方法，用户名：17600682222，密码：123123，验证码：8888
+2023-04-01 01:59:34,343 INFO [root] [base.py | base_find:25] - 正在定位[id:username]
+2023-04-01 01:59:34,343 INFO [root] [base.py | base_input:37] - 正在对[id:username]输入框进行清空
+2023-04-01 01:59:34,372 INFO [root] [base.py | base_input:39] - 正在对[id:username]输入框输入内容：17600682222
+2023-04-01 01:59:34,424 INFO [root] [base.py | base_find:25] - 正在定位[id:password]
+2023-04-01 01:59:34,440 INFO [root] [base.py | base_input:37] - 正在对[id:password]输入框进行清空
+2023-04-01 01:59:34,456 INFO [root] [base.py | base_input:39] - 正在对[id:password]输入框输入内容：123123
+2023-04-01 01:59:34,508 INFO [root] [base.py | base_find:25] - 正在定位[id:verify_code]
+2023-04-01 01:59:34,508 INFO [root] [base.py | base_input:37] - 正在对[id:verify_code]输入框进行清空
+2023-04-01 01:59:34,522 INFO [root] [base.py | base_input:39] - 正在对[id:verify_code]输入框输入内容：8888
+2023-04-01 01:59:35,580 INFO [root] [base.py | base_click:48] - 正在对[class name:J-login-submit]元素进行点击
+2023-04-01 01:59:35,580 INFO [root] [base.py | base_find:25] - 正在定位[class name:J-login-submit]
+2023-04-01 01:59:35,615 INFO [root] [base.py | base_find:25] - 正在定位[link text:我的商城]
+2023-04-01 01:59:36,072 INFO [root] [base.py | base_get_text:58] - 正在获取('link text', '我的商城')元素文本：我的商城

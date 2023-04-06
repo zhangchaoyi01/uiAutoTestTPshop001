@@ -1,0 +1,44 @@
+{
+  "login_001": {
+    "username": "13800001111",
+    "password": "123123",
+    "verify_code": "8888",
+    "expect_result": "账号不存在!",
+    "success": false
+  },
+  "login_002": {
+    "username": "",
+    "password": "123123",
+    "verify_code": "8888",
+    "expect_result": "用户名不能为空!",
+    "success": false
+  },
+  "login_003": {
+    "username": "17600682222",
+    "password": "123121",
+    "verify_code": "8888",
+    "expect_result": "密码错误!",
+    "success": false
+  },
+  "login_004": {
+    "username": "13800001111",
+    "password": "",
+    "verify_code": "8888",
+    "expect_result": "密码不能为空!",
+    "success": false
+  },
+  "login_005": {
+    "username": "13800001111",
+    "password": "123123",
+    "verify_code": "",
+    "expect_result": "验证码不1能为空!",
+    "success": false
+  },
+  "login_006": {
+    "username": "17600682222",
+    "password": "123123",
+    "verify_code": "8888",
+    "expect_result": "我的商城",
+    "success": true
+  }
+}

@@ -1,0 +1,944 @@
+2023-03-30 18:08:43,170 INFO [root] [base.py | base_click:44] - 正在对%s元素进行点击
+2023-03-30 18:08:43,170 INFO [root] [base.py | base_find:21] - 正在定位[link text:登录]
+2023-03-30 18:08:43,457 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:08:43,471 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="1dcefd34-53fb-471d-91e2-c7a62704cfbe")>输入框清空
+2023-03-30 18:08:43,504 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="1dcefd34-53fb-471d-91e2-c7a62704cfbe")>元素进行输入内容13800001111
+2023-03-30 18:08:43,560 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:08:43,570 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="120c9e09-9fe2-46be-aff5-a1e0c7280418")>输入框清空
+2023-03-30 18:08:43,603 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="120c9e09-9fe2-46be-aff5-a1e0c7280418")>元素进行输入内容123123
+2023-03-30 18:08:43,663 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:08:43,676 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="3e48fcc9-0806-4b5a-8c8e-41ec8056ed1e")>输入框清空
+2023-03-30 18:08:43,711 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="3e48fcc9-0806-4b5a-8c8e-41ec8056ed1e")>元素进行输入内容8888
+2023-03-30 18:08:44,776 INFO [root] [base.py | base_click:44] - 正在对%s元素进行点击
+2023-03-30 18:08:44,776 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:08:44,828 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:08:45,063 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：账号不存在!
+2023-03-30 18:08:46,087 INFO [root] [base.py | base_click:44] - 正在对%s元素进行点击
+2023-03-30 18:08:46,088 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:08:46,324 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:08:46,334 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="1dcefd34-53fb-471d-91e2-c7a62704cfbe")>输入框清空
+2023-03-30 18:08:46,373 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="1dcefd34-53fb-471d-91e2-c7a62704cfbe")>元素进行输入内容
+2023-03-30 18:08:46,436 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:08:46,456 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="120c9e09-9fe2-46be-aff5-a1e0c7280418")>输入框清空
+2023-03-30 18:08:46,488 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="120c9e09-9fe2-46be-aff5-a1e0c7280418")>元素进行输入内容123123
+2023-03-30 18:08:46,555 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:08:46,566 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="3e48fcc9-0806-4b5a-8c8e-41ec8056ed1e")>输入框清空
+2023-03-30 18:08:46,599 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="3e48fcc9-0806-4b5a-8c8e-41ec8056ed1e")>元素进行输入内容8888
+2023-03-30 18:08:47,656 INFO [root] [base.py | base_click:44] - 正在对%s元素进行点击
+2023-03-30 18:08:47,656 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:08:47,691 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:08:47,711 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：用户名不能为空!
+2023-03-30 18:08:48,720 INFO [root] [base.py | base_click:44] - 正在对%s元素进行点击
+2023-03-30 18:08:48,720 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:08:48,761 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:08:48,769 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="1dcefd34-53fb-471d-91e2-c7a62704cfbe")>输入框清空
+2023-03-30 18:08:48,788 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="1dcefd34-53fb-471d-91e2-c7a62704cfbe")>元素进行输入内容17600682222
+2023-03-30 18:08:48,844 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:08:48,852 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="120c9e09-9fe2-46be-aff5-a1e0c7280418")>输入框清空
+2023-03-30 18:08:48,875 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="120c9e09-9fe2-46be-aff5-a1e0c7280418")>元素进行输入内容123121
+2023-03-30 18:08:48,908 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:08:48,916 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="3e48fcc9-0806-4b5a-8c8e-41ec8056ed1e")>输入框清空
+2023-03-30 18:08:48,939 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="3e48fcc9-0806-4b5a-8c8e-41ec8056ed1e")>元素进行输入内容8888
+2023-03-30 18:08:49,981 INFO [root] [base.py | base_click:44] - 正在对%s元素进行点击
+2023-03-30 18:08:49,981 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:08:50,009 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:08:50,158 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：密码错误!
+2023-03-30 18:08:51,167 INFO [root] [base.py | base_click:44] - 正在对%s元素进行点击
+2023-03-30 18:08:51,167 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:08:51,207 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:08:51,215 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="1dcefd34-53fb-471d-91e2-c7a62704cfbe")>输入框清空
+2023-03-30 18:08:51,235 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="1dcefd34-53fb-471d-91e2-c7a62704cfbe")>元素进行输入内容13800001111
+2023-03-30 18:08:51,277 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:08:51,285 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="120c9e09-9fe2-46be-aff5-a1e0c7280418")>输入框清空
+2023-03-30 18:08:51,306 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="120c9e09-9fe2-46be-aff5-a1e0c7280418")>元素进行输入内容
+2023-03-30 18:08:51,335 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:08:51,343 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="3e48fcc9-0806-4b5a-8c8e-41ec8056ed1e")>输入框清空
+2023-03-30 18:08:51,365 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="3e48fcc9-0806-4b5a-8c8e-41ec8056ed1e")>元素进行输入内容8888
+2023-03-30 18:08:52,418 INFO [root] [base.py | base_click:44] - 正在对%s元素进行点击
+2023-03-30 18:08:52,418 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:08:52,447 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:08:52,468 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：密码不能为空!
+2023-03-30 18:08:53,481 INFO [root] [base.py | base_click:44] - 正在对%s元素进行点击
+2023-03-30 18:08:53,481 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:08:53,520 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:08:53,527 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="1dcefd34-53fb-471d-91e2-c7a62704cfbe")>输入框清空
+2023-03-30 18:08:53,554 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="1dcefd34-53fb-471d-91e2-c7a62704cfbe")>元素进行输入内容13800001111
+2023-03-30 18:08:53,595 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:08:53,601 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="120c9e09-9fe2-46be-aff5-a1e0c7280418")>输入框清空
+2023-03-30 18:08:53,621 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="120c9e09-9fe2-46be-aff5-a1e0c7280418")>元素进行输入内容123123
+2023-03-30 18:08:53,659 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:08:53,665 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="3e48fcc9-0806-4b5a-8c8e-41ec8056ed1e")>输入框清空
+2023-03-30 18:08:53,686 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="3e48fcc9-0806-4b5a-8c8e-41ec8056ed1e")>元素进行输入内容
+2023-03-30 18:08:54,725 INFO [root] [base.py | base_click:44] - 正在对%s元素进行点击
+2023-03-30 18:08:54,725 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:08:54,760 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:08:54,783 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：验证码不能为空!
+2023-03-30 18:08:55,791 INFO [root] [base.py | base_click:44] - 正在对%s元素进行点击
+2023-03-30 18:08:55,791 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:08:55,830 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:08:55,839 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="1dcefd34-53fb-471d-91e2-c7a62704cfbe")>输入框清空
+2023-03-30 18:08:55,859 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="1dcefd34-53fb-471d-91e2-c7a62704cfbe")>元素进行输入内容17600682222
+2023-03-30 18:08:55,902 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:08:55,910 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="120c9e09-9fe2-46be-aff5-a1e0c7280418")>输入框清空
+2023-03-30 18:08:55,930 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="120c9e09-9fe2-46be-aff5-a1e0c7280418")>元素进行输入内容123123
+2023-03-30 18:08:55,962 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:08:55,971 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="3e48fcc9-0806-4b5a-8c8e-41ec8056ed1e")>输入框清空
+2023-03-30 18:08:55,989 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="a6842300d08558b6efe5d78b5cfab126", element="3e48fcc9-0806-4b5a-8c8e-41ec8056ed1e")>元素进行输入内容8888
+2023-03-30 18:08:57,021 INFO [root] [base.py | base_click:44] - 正在对%s元素进行点击
+2023-03-30 18:08:57,021 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:08:57,052 INFO [root] [base.py | base_find:21] - 正在定位[link text:我的商城]
+2023-03-30 18:08:57,502 INFO [root] [base.py | base_get_text:54] - 正在获取('link text', '我的商城')元素文本：我的商城
+2023-03-30 18:23:49,605 INFO [root] [base.py | base_find:21] - 正在定位[link text:登录]
+2023-03-30 18:23:49,895 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:23:49,911 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="11a71cb1-a3f0-4f07-b717-9e87ca3fcf2f")>输入框清空
+2023-03-30 18:23:49,946 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="11a71cb1-a3f0-4f07-b717-9e87ca3fcf2f")>元素进行输入内容13800001111
+2023-03-30 18:23:50,002 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:23:50,013 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="6f093302-c122-4df5-a1cd-a2a09c593c01")>输入框清空
+2023-03-30 18:23:50,049 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="6f093302-c122-4df5-a1cd-a2a09c593c01")>元素进行输入内容123123
+2023-03-30 18:23:50,116 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:23:50,130 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="59dd3bc1-da30-49c6-8eb4-be74293fbdc3")>输入框清空
+2023-03-30 18:23:50,166 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="59dd3bc1-da30-49c6-8eb4-be74293fbdc3")>元素进行输入内容8888
+2023-03-30 18:23:51,232 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:23:51,288 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:23:51,446 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：账号不存在!
+2023-03-30 18:23:52,460 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:23:52,518 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:23:52,549 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="11a71cb1-a3f0-4f07-b717-9e87ca3fcf2f")>输入框清空
+2023-03-30 18:23:52,588 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="11a71cb1-a3f0-4f07-b717-9e87ca3fcf2f")>元素进行输入内容
+2023-03-30 18:23:52,633 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:23:52,652 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="6f093302-c122-4df5-a1cd-a2a09c593c01")>输入框清空
+2023-03-30 18:23:52,689 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="6f093302-c122-4df5-a1cd-a2a09c593c01")>元素进行输入内容123123
+2023-03-30 18:23:52,738 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:23:52,748 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="59dd3bc1-da30-49c6-8eb4-be74293fbdc3")>输入框清空
+2023-03-30 18:23:52,777 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="59dd3bc1-da30-49c6-8eb4-be74293fbdc3")>元素进行输入内容8888
+2023-03-30 18:23:53,831 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:23:53,873 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:23:53,899 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：用户名不能为空!
+2023-03-30 18:23:54,903 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:23:54,945 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:23:54,949 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="11a71cb1-a3f0-4f07-b717-9e87ca3fcf2f")>输入框清空
+2023-03-30 18:23:54,967 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="11a71cb1-a3f0-4f07-b717-9e87ca3fcf2f")>元素进行输入内容17600682222
+2023-03-30 18:23:55,034 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:23:55,034 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="6f093302-c122-4df5-a1cd-a2a09c593c01")>输入框清空
+2023-03-30 18:23:55,071 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="6f093302-c122-4df5-a1cd-a2a09c593c01")>元素进行输入内容123121
+2023-03-30 18:23:55,122 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:23:55,131 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="59dd3bc1-da30-49c6-8eb4-be74293fbdc3")>输入框清空
+2023-03-30 18:23:55,162 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="59dd3bc1-da30-49c6-8eb4-be74293fbdc3")>元素进行输入内容8888
+2023-03-30 18:23:56,228 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:23:56,259 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:23:56,426 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：密码错误!
+2023-03-30 18:23:57,432 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:23:57,463 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:23:57,479 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="11a71cb1-a3f0-4f07-b717-9e87ca3fcf2f")>输入框清空
+2023-03-30 18:23:57,495 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="11a71cb1-a3f0-4f07-b717-9e87ca3fcf2f")>元素进行输入内容13800001111
+2023-03-30 18:23:57,542 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:23:57,542 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="6f093302-c122-4df5-a1cd-a2a09c593c01")>输入框清空
+2023-03-30 18:23:57,573 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="6f093302-c122-4df5-a1cd-a2a09c593c01")>元素进行输入内容
+2023-03-30 18:23:57,604 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:23:57,620 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="59dd3bc1-da30-49c6-8eb4-be74293fbdc3")>输入框清空
+2023-03-30 18:23:57,635 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="59dd3bc1-da30-49c6-8eb4-be74293fbdc3")>元素进行输入内容8888
+2023-03-30 18:23:58,671 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:23:58,703 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:23:58,723 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：密码不能为空!
+2023-03-30 18:23:59,729 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:23:59,760 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:23:59,775 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="11a71cb1-a3f0-4f07-b717-9e87ca3fcf2f")>输入框清空
+2023-03-30 18:23:59,793 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="11a71cb1-a3f0-4f07-b717-9e87ca3fcf2f")>元素进行输入内容13800001111
+2023-03-30 18:23:59,838 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:23:59,858 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="6f093302-c122-4df5-a1cd-a2a09c593c01")>输入框清空
+2023-03-30 18:23:59,879 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="6f093302-c122-4df5-a1cd-a2a09c593c01")>元素进行输入内容123123
+2023-03-30 18:23:59,912 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:23:59,928 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="59dd3bc1-da30-49c6-8eb4-be74293fbdc3")>输入框清空
+2023-03-30 18:23:59,943 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="59dd3bc1-da30-49c6-8eb4-be74293fbdc3")>元素进行输入内容
+2023-03-30 18:24:00,990 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:24:01,020 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:24:01,041 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：验证码不能为空!
+2023-03-30 18:24:02,045 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:24:02,095 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:24:02,105 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="11a71cb1-a3f0-4f07-b717-9e87ca3fcf2f")>输入框清空
+2023-03-30 18:24:02,129 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="11a71cb1-a3f0-4f07-b717-9e87ca3fcf2f")>元素进行输入内容17600682222
+2023-03-30 18:24:02,177 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:24:02,185 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="6f093302-c122-4df5-a1cd-a2a09c593c01")>输入框清空
+2023-03-30 18:24:02,225 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="6f093302-c122-4df5-a1cd-a2a09c593c01")>元素进行输入内容123123
+2023-03-30 18:24:02,262 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:24:02,271 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="59dd3bc1-da30-49c6-8eb4-be74293fbdc3")>输入框清空
+2023-03-30 18:24:02,295 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="0fbd1e9cfec23ebef4cdd3547ac959cc", element="59dd3bc1-da30-49c6-8eb4-be74293fbdc3")>元素进行输入内容8888
+2023-03-30 18:24:03,342 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:24:03,373 INFO [root] [base.py | base_find:21] - 正在定位[link text:我的商城]
+2023-03-30 18:24:03,836 INFO [root] [base.py | base_get_text:54] - 正在获取('link text', '我的商城')元素文本：我的商城
+2023-03-30 18:42:36,711 INFO [root] [base.py | base_click:44] - 正在对[link text:登录]元素进行点击
+2023-03-30 18:42:36,711 INFO [root] [base.py | base_find:21] - 正在定位[link text:登录]
+2023-03-30 18:42:36,999 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:42:37,013 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="15dbed25-60ec-464c-b5d4-8a152cb84dd0")>输入框清空
+2023-03-30 18:42:37,047 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="15dbed25-60ec-464c-b5d4-8a152cb84dd0")>元素进行输入内容13800001111
+2023-03-30 18:42:37,098 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:42:37,111 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="d19d9df3-2b98-44dd-b33b-022c5a97a73a")>输入框清空
+2023-03-30 18:42:37,144 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="d19d9df3-2b98-44dd-b33b-022c5a97a73a")>元素进行输入内容123123
+2023-03-30 18:42:37,205 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:42:37,218 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="e0e053c5-80af-475f-9df2-e37f0f5e140c")>输入框清空
+2023-03-30 18:42:37,256 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="e0e053c5-80af-475f-9df2-e37f0f5e140c")>元素进行输入内容8888
+2023-03-30 18:42:38,315 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:42:38,315 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:42:38,364 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:42:38,529 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：账号不存在!
+2023-03-30 18:42:39,538 INFO [root] [base.py | base_click:44] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:42:39,538 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:42:39,596 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:42:39,608 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="15dbed25-60ec-464c-b5d4-8a152cb84dd0")>输入框清空
+2023-03-30 18:42:39,639 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="15dbed25-60ec-464c-b5d4-8a152cb84dd0")>元素进行输入内容
+2023-03-30 18:42:39,706 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:42:39,719 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="d19d9df3-2b98-44dd-b33b-022c5a97a73a")>输入框清空
+2023-03-30 18:42:39,735 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="d19d9df3-2b98-44dd-b33b-022c5a97a73a")>元素进行输入内容123123
+2023-03-30 18:42:39,808 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:42:39,820 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="e0e053c5-80af-475f-9df2-e37f0f5e140c")>输入框清空
+2023-03-30 18:42:39,853 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="e0e053c5-80af-475f-9df2-e37f0f5e140c")>元素进行输入内容8888
+2023-03-30 18:42:40,911 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:42:40,911 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:42:40,948 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:42:40,972 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：用户名不能为空!
+2023-03-30 18:42:41,978 INFO [root] [base.py | base_click:44] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:42:41,978 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:42:42,018 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:42:42,018 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="15dbed25-60ec-464c-b5d4-8a152cb84dd0")>输入框清空
+2023-03-30 18:42:42,033 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="15dbed25-60ec-464c-b5d4-8a152cb84dd0")>元素进行输入内容17600682222
+2023-03-30 18:42:42,109 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:42:42,117 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="d19d9df3-2b98-44dd-b33b-022c5a97a73a")>输入框清空
+2023-03-30 18:42:42,134 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="d19d9df3-2b98-44dd-b33b-022c5a97a73a")>元素进行输入内容123121
+2023-03-30 18:42:42,186 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:42:42,204 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="e0e053c5-80af-475f-9df2-e37f0f5e140c")>输入框清空
+2023-03-30 18:42:42,237 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="e0e053c5-80af-475f-9df2-e37f0f5e140c")>元素进行输入内容8888
+2023-03-30 18:42:43,290 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:42:43,290 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:42:43,324 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:42:43,468 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：密码错误!
+2023-03-30 18:42:44,472 INFO [root] [base.py | base_click:44] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:42:44,472 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:42:44,513 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:42:44,517 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="15dbed25-60ec-464c-b5d4-8a152cb84dd0")>输入框清空
+2023-03-30 18:42:44,555 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="15dbed25-60ec-464c-b5d4-8a152cb84dd0")>元素进行输入内容13800001111
+2023-03-30 18:42:44,625 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:42:44,634 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="d19d9df3-2b98-44dd-b33b-022c5a97a73a")>输入框清空
+2023-03-30 18:42:44,650 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="d19d9df3-2b98-44dd-b33b-022c5a97a73a")>元素进行输入内容
+2023-03-30 18:42:44,684 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:42:44,702 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="e0e053c5-80af-475f-9df2-e37f0f5e140c")>输入框清空
+2023-03-30 18:42:44,735 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="e0e053c5-80af-475f-9df2-e37f0f5e140c")>元素进行输入内容8888
+2023-03-30 18:42:45,789 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:42:45,789 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:42:45,825 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:42:45,844 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：
+2023-03-30 18:42:47,040 INFO [root] [base.py | base_click:44] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:42:47,040 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:42:47,082 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:42:47,083 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="15dbed25-60ec-464c-b5d4-8a152cb84dd0")>输入框清空
+2023-03-30 18:42:47,118 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="15dbed25-60ec-464c-b5d4-8a152cb84dd0")>元素进行输入内容13800001111
+2023-03-30 18:42:47,176 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:42:47,183 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="d19d9df3-2b98-44dd-b33b-022c5a97a73a")>输入框清空
+2023-03-30 18:42:47,206 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="d19d9df3-2b98-44dd-b33b-022c5a97a73a")>元素进行输入内容123123
+2023-03-30 18:42:47,253 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:42:47,267 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="e0e053c5-80af-475f-9df2-e37f0f5e140c")>输入框清空
+2023-03-30 18:42:47,284 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="e0e053c5-80af-475f-9df2-e37f0f5e140c")>元素进行输入内容
+2023-03-30 18:42:48,340 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:42:48,340 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:42:48,374 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:42:48,395 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：验证码不能为空!
+2023-03-30 18:42:49,405 INFO [root] [base.py | base_click:44] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:42:49,405 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:42:49,444 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:42:49,449 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="15dbed25-60ec-464c-b5d4-8a152cb84dd0")>输入框清空
+2023-03-30 18:42:49,465 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="15dbed25-60ec-464c-b5d4-8a152cb84dd0")>元素进行输入内容17600682222
+2023-03-30 18:42:49,539 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:42:49,549 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="d19d9df3-2b98-44dd-b33b-022c5a97a73a")>输入框清空
+2023-03-30 18:42:49,565 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="d19d9df3-2b98-44dd-b33b-022c5a97a73a")>元素进行输入内容123123
+2023-03-30 18:42:49,632 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:42:49,635 INFO [root] [base.py | base_input:33] - <selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="e0e053c5-80af-475f-9df2-e37f0f5e140c")>输入框清空
+2023-03-30 18:42:49,665 INFO [root] [base.py | base_input:35] - 正在对<selenium.webdriver.remote.webelement.WebElement (session="942c211045a688ae9def4f70e6daaa16", element="e0e053c5-80af-475f-9df2-e37f0f5e140c")>元素进行输入内容8888
+2023-03-30 18:42:50,706 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:42:50,706 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:42:50,740 INFO [root] [base.py | base_find:21] - 正在定位[link text:我的商城]
+2023-03-30 18:42:51,181 INFO [root] [base.py | base_get_text:54] - 正在获取('link text', '我的商城')元素文本：我的商城
+2023-03-30 18:46:47,305 INFO [root] [base.py | base_click:44] - 正在对[link text:登录]元素进行点击
+2023-03-30 18:46:47,305 INFO [root] [base.py | base_find:21] - 正在定位[link text:登录]
+2023-03-30 18:46:47,622 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:46:47,637 INFO [root] [base.py | base_input:33] - 正在对[id:username]输入框进行清空
+2023-03-30 18:46:47,682 INFO [root] [base.py | base_input:35] - 正在对[id:username]输入框输入内容
+2023-03-30 18:46:47,741 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:46:47,756 INFO [root] [base.py | base_input:33] - 正在对[id:password]输入框进行清空
+2023-03-30 18:46:47,791 INFO [root] [base.py | base_input:35] - 正在对[id:password]输入框输入内容
+2023-03-30 18:46:47,846 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:46:47,858 INFO [root] [base.py | base_input:33] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:46:47,894 INFO [root] [base.py | base_input:35] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:46:48,957 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:46:48,957 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:46:49,013 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:46:49,162 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：账号不存在!
+2023-03-30 18:46:50,167 INFO [root] [base.py | base_click:44] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:46:50,167 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:46:50,212 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:46:50,220 INFO [root] [base.py | base_input:33] - 正在对[id:username]输入框进行清空
+2023-03-30 18:46:50,241 INFO [root] [base.py | base_input:35] - 正在对[id:username]输入框输入内容
+2023-03-30 18:46:50,272 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:46:50,281 INFO [root] [base.py | base_input:33] - 正在对[id:password]输入框进行清空
+2023-03-30 18:46:50,303 INFO [root] [base.py | base_input:35] - 正在对[id:password]输入框输入内容
+2023-03-30 18:46:50,341 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:46:50,349 INFO [root] [base.py | base_input:33] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:46:50,372 INFO [root] [base.py | base_input:35] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:46:51,409 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:46:51,409 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:46:51,443 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:46:51,464 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：用户名不能为空!
+2023-03-30 18:46:52,474 INFO [root] [base.py | base_click:44] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:46:52,474 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:46:52,517 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:46:52,525 INFO [root] [base.py | base_input:33] - 正在对[id:username]输入框进行清空
+2023-03-30 18:46:52,546 INFO [root] [base.py | base_input:35] - 正在对[id:username]输入框输入内容
+2023-03-30 18:46:52,604 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:46:52,611 INFO [root] [base.py | base_input:33] - 正在对[id:password]输入框进行清空
+2023-03-30 18:46:52,633 INFO [root] [base.py | base_input:35] - 正在对[id:password]输入框输入内容
+2023-03-30 18:46:52,670 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:46:52,677 INFO [root] [base.py | base_input:33] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:46:52,699 INFO [root] [base.py | base_input:35] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:46:53,733 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:46:53,733 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:46:53,765 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:46:53,912 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：密码错误!
+2023-03-30 18:46:54,915 INFO [root] [base.py | base_click:44] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:46:54,915 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:46:54,954 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:46:54,961 INFO [root] [base.py | base_input:33] - 正在对[id:username]输入框进行清空
+2023-03-30 18:46:54,982 INFO [root] [base.py | base_input:35] - 正在对[id:username]输入框输入内容
+2023-03-30 18:46:55,021 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:46:55,028 INFO [root] [base.py | base_input:33] - 正在对[id:password]输入框进行清空
+2023-03-30 18:46:55,049 INFO [root] [base.py | base_input:35] - 正在对[id:password]输入框输入内容
+2023-03-30 18:46:55,078 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:46:55,087 INFO [root] [base.py | base_input:33] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:46:55,108 INFO [root] [base.py | base_input:35] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:46:56,155 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:46:56,155 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:46:56,186 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:46:56,217 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：密码不能为空!
+2023-03-30 18:46:57,218 INFO [root] [base.py | base_click:44] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:46:57,218 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:46:57,262 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:46:57,269 INFO [root] [base.py | base_input:33] - 正在对[id:username]输入框进行清空
+2023-03-30 18:46:57,290 INFO [root] [base.py | base_input:35] - 正在对[id:username]输入框输入内容
+2023-03-30 18:46:57,331 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:46:57,338 INFO [root] [base.py | base_input:33] - 正在对[id:password]输入框进行清空
+2023-03-30 18:46:57,358 INFO [root] [base.py | base_input:35] - 正在对[id:password]输入框输入内容
+2023-03-30 18:46:57,392 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:46:57,400 INFO [root] [base.py | base_input:33] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:46:57,421 INFO [root] [base.py | base_input:35] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:46:58,454 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:46:58,454 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:46:58,488 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:46:58,510 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：验证码不能为空!
+2023-03-30 18:46:59,516 INFO [root] [base.py | base_click:44] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:46:59,516 INFO [root] [base.py | base_find:21] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:46:59,560 INFO [root] [base.py | base_find:21] - 正在定位[id:username]
+2023-03-30 18:46:59,568 INFO [root] [base.py | base_input:33] - 正在对[id:username]输入框进行清空
+2023-03-30 18:46:59,589 INFO [root] [base.py | base_input:35] - 正在对[id:username]输入框输入内容
+2023-03-30 18:46:59,628 INFO [root] [base.py | base_find:21] - 正在定位[id:password]
+2023-03-30 18:46:59,636 INFO [root] [base.py | base_input:33] - 正在对[id:password]输入框进行清空
+2023-03-30 18:46:59,658 INFO [root] [base.py | base_input:35] - 正在对[id:password]输入框输入内容
+2023-03-30 18:46:59,693 INFO [root] [base.py | base_find:21] - 正在定位[id:verify_code]
+2023-03-30 18:46:59,700 INFO [root] [base.py | base_input:33] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:46:59,721 INFO [root] [base.py | base_input:35] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:47:00,765 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:47:00,765 INFO [root] [base.py | base_find:21] - 正在定位[class name:J-login-submit]
+2023-03-30 18:47:00,793 INFO [root] [base.py | base_find:21] - 正在定位[link text:我的商城]
+2023-03-30 18:47:01,209 INFO [root] [base.py | base_get_text:54] - 正在获取('link text', '我的商城')元素文本：我的商城
+2023-03-30 18:52:34,338 INFO [root] [base.py | base_click:44] - 正在对[link text:登录]元素进行点击
+2023-03-30 18:52:34,630 INFO [root] [base.py | base_input:33] - 正在对[id:username]输入框进行清空
+2023-03-30 18:52:34,667 INFO [root] [base.py | base_input:35] - 正在对[id:username]输入框输入内容
+2023-03-30 18:52:34,731 INFO [root] [base.py | base_input:33] - 正在对[id:password]输入框进行清空
+2023-03-30 18:52:34,765 INFO [root] [base.py | base_input:35] - 正在对[id:password]输入框输入内容
+2023-03-30 18:52:34,837 INFO [root] [base.py | base_input:33] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:52:34,872 INFO [root] [base.py | base_input:35] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:52:35,928 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:52:36,080 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：
+2023-03-30 18:52:37,452 INFO [root] [base.py | base_click:44] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:52:37,511 INFO [root] [base.py | base_input:33] - 正在对[id:username]输入框进行清空
+2023-03-30 18:52:37,535 INFO [root] [base.py | base_input:35] - 正在对[id:username]输入框输入内容
+2023-03-30 18:52:37,595 INFO [root] [base.py | base_input:33] - 正在对[id:password]输入框进行清空
+2023-03-30 18:52:37,627 INFO [root] [base.py | base_input:35] - 正在对[id:password]输入框输入内容
+2023-03-30 18:52:37,681 INFO [root] [base.py | base_input:33] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:52:37,715 INFO [root] [base.py | base_input:35] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:52:38,768 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:52:38,829 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：用户名不能为空!
+2023-03-30 18:52:39,832 INFO [root] [base.py | base_click:44] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:52:39,879 INFO [root] [base.py | base_input:33] - 正在对[id:username]输入框进行清空
+2023-03-30 18:52:39,894 INFO [root] [base.py | base_input:35] - 正在对[id:username]输入框输入内容
+2023-03-30 18:52:39,960 INFO [root] [base.py | base_input:33] - 正在对[id:password]输入框进行清空
+2023-03-30 18:52:39,978 INFO [root] [base.py | base_input:35] - 正在对[id:password]输入框输入内容
+2023-03-30 18:52:40,038 INFO [root] [base.py | base_input:33] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:52:40,062 INFO [root] [base.py | base_input:35] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:52:41,133 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:52:41,321 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：密码错误!
+2023-03-30 18:52:42,330 INFO [root] [base.py | base_click:44] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:52:42,377 INFO [root] [base.py | base_input:33] - 正在对[id:username]输入框进行清空
+2023-03-30 18:52:42,394 INFO [root] [base.py | base_input:35] - 正在对[id:username]输入框输入内容
+2023-03-30 18:52:42,465 INFO [root] [base.py | base_input:33] - 正在对[id:password]输入框进行清空
+2023-03-30 18:52:42,496 INFO [root] [base.py | base_input:35] - 正在对[id:password]输入框输入内容
+2023-03-30 18:52:42,546 INFO [root] [base.py | base_input:33] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:52:42,581 INFO [root] [base.py | base_input:35] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:52:43,633 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:52:43,689 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：
+2023-03-30 18:52:44,890 INFO [root] [base.py | base_click:44] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:52:44,931 INFO [root] [base.py | base_input:33] - 正在对[id:username]输入框进行清空
+2023-03-30 18:52:44,963 INFO [root] [base.py | base_input:35] - 正在对[id:username]输入框输入内容
+2023-03-30 18:52:45,028 INFO [root] [base.py | base_input:33] - 正在对[id:password]输入框进行清空
+2023-03-30 18:52:45,045 INFO [root] [base.py | base_input:35] - 正在对[id:password]输入框输入内容
+2023-03-30 18:52:45,110 INFO [root] [base.py | base_input:33] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:52:45,142 INFO [root] [base.py | base_input:35] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:52:46,183 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:52:46,243 INFO [root] [base.py | base_get_text:54] - 正在获取('css selector', '.layui-layer-content')元素文本：验证码不能为空!
+2023-03-30 18:52:47,250 INFO [root] [base.py | base_click:44] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:52:47,293 INFO [root] [base.py | base_input:33] - 正在对[id:username]输入框进行清空
+2023-03-30 18:52:47,324 INFO [root] [base.py | base_input:35] - 正在对[id:username]输入框输入内容
+2023-03-30 18:52:47,382 INFO [root] [base.py | base_input:33] - 正在对[id:password]输入框进行清空
+2023-03-30 18:52:47,410 INFO [root] [base.py | base_input:35] - 正在对[id:password]输入框输入内容
+2023-03-30 18:52:47,466 INFO [root] [base.py | base_input:33] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:52:47,498 INFO [root] [base.py | base_input:35] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:52:48,549 INFO [root] [base.py | base_click:44] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:52:49,008 INFO [root] [base.py | base_get_text:54] - 正在获取('link text', '我的商城')元素文本：我的商城
+2023-03-30 18:56:11,282 INFO [root] [base.py | base_click:43] - 正在对[link text:登录]元素进行点击
+2023-03-30 18:56:11,282 INFO [root] [base.py | base_find:20] - 正在定位[link text:登录]
+2023-03-30 18:56:11,557 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 18:56:11,571 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 18:56:11,605 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 18:56:11,658 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 18:56:11,669 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 18:56:11,702 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 18:56:11,761 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 18:56:11,773 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:56:11,807 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:56:12,867 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:56:12,867 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 18:56:12,917 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:56:13,078 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：账号不存在!
+2023-03-30 18:56:14,086 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:56:14,086 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:56:14,132 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 18:56:14,135 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 18:56:14,169 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 18:56:14,219 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 18:56:14,219 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 18:56:14,258 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 18:56:14,307 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 18:56:14,318 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:56:14,336 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:56:15,399 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:56:15,399 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 18:56:15,439 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:56:15,462 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：用户名不能为空!
+2023-03-30 18:56:16,472 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:56:16,472 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:56:16,514 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 18:56:16,522 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 18:56:16,542 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 18:56:16,603 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 18:56:16,603 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 18:56:16,634 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 18:56:16,689 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 18:56:16,689 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:56:16,727 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:56:17,789 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:56:17,789 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 18:56:17,831 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:56:17,979 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：密码错误!
+2023-03-30 18:56:18,988 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:56:18,988 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:56:19,029 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 18:56:19,033 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 18:56:19,064 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 18:56:19,126 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 18:56:19,134 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 18:56:19,149 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 18:56:19,183 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 18:56:19,201 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:56:19,234 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:56:20,289 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:56:20,289 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 18:56:20,325 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:56:20,349 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：密码不能为空!
+2023-03-30 18:56:21,357 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:56:21,357 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:56:21,395 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 18:56:21,399 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 18:56:21,415 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 18:56:21,487 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 18:56:21,487 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 18:56:21,518 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 18:56:21,565 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 18:56:21,568 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:56:21,600 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:56:22,655 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:56:22,655 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 18:56:22,690 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:56:22,706 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：
+2023-03-30 18:56:23,896 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:56:23,896 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:56:23,931 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 18:56:23,931 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 18:56:23,965 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 18:56:24,022 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 18:56:24,032 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 18:56:24,048 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 18:56:24,101 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 18:56:24,117 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:56:24,133 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:56:25,188 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:56:25,188 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 18:56:25,226 INFO [root] [base.py | base_find:20] - 正在定位[link text:我的商城]
+2023-03-30 18:56:25,664 INFO [root] [base.py | base_get_text:53] - 正在获取('link text', '我的商城')元素文本：我的商城
+2023-03-30 18:57:57,930 INFO [root] [base.py | base_click:43] - 正在对[link text:登录]元素进行点击
+2023-03-30 18:57:57,930 INFO [root] [base.py | base_find:20] - 正在定位[link text:登录]
+2023-03-30 18:57:58,229 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 18:57:58,244 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 18:57:58,281 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 18:57:58,334 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 18:57:58,346 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 18:57:58,379 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 18:57:58,446 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 18:57:58,459 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:57:58,499 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:57:59,567 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:57:59,567 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 18:57:59,622 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:57:59,779 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：账号不存在!
+2023-03-30 18:58:00,796 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:58:00,796 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:58:00,853 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 18:58:00,865 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 18:58:00,903 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 18:58:00,950 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 18:58:00,964 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 18:58:01,005 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 18:58:01,064 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 18:58:01,064 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:58:01,103 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:58:02,156 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:58:02,156 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 18:58:02,195 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:58:02,218 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：用户名不能为空!
+2023-03-30 18:58:03,218 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:58:03,218 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:58:03,258 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 18:58:03,261 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 18:58:03,278 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 18:58:03,347 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 18:58:03,347 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 18:58:03,382 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 18:58:03,434 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 18:58:03,434 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:58:03,472 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:58:04,518 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:58:04,518 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 18:58:04,552 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:58:04,694 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：密码错误!
+2023-03-30 18:58:05,697 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:58:05,697 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:58:05,738 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 18:58:05,744 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 18:58:05,777 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 18:58:05,838 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 18:58:05,844 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 18:58:05,860 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 18:58:05,910 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 18:58:05,913 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:58:05,945 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:58:07,003 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:58:07,003 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 18:58:07,040 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:58:07,064 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：密码不能为空!
+2023-03-30 18:58:08,066 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:58:08,066 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:58:08,106 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 18:58:08,110 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 18:58:08,127 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 18:58:08,199 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 18:58:08,199 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 18:58:08,230 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 18:58:08,279 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 18:58:08,279 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:58:08,315 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:58:09,369 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:58:09,369 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 18:58:09,405 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 18:58:09,425 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：验证码不能为空!
+2023-03-30 18:58:10,427 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 18:58:10,427 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 18:58:10,467 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 18:58:10,475 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 18:58:10,494 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 18:58:10,576 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 18:58:10,576 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 18:58:10,612 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 18:58:10,666 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 18:58:10,675 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 18:58:10,698 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 18:58:11,757 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 18:58:11,757 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 18:58:11,789 INFO [root] [base.py | base_find:20] - 正在定位[link text:我的商城]
+2023-03-30 18:58:12,242 INFO [root] [base.py | base_get_text:53] - 正在获取('link text', '我的商城')元素文本：我的商城
+2023-03-30 19:01:25,702 INFO [root] [base.py | base_click:43] - 正在对[link text:登录]元素进行点击
+2023-03-30 19:01:25,702 INFO [root] [base.py | base_find:20] - 正在定位[link text:登录]
+2023-03-30 19:01:25,973 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 19:01:25,988 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 19:01:26,024 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 19:01:26,080 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 19:01:26,091 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 19:01:26,128 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 19:01:26,194 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 19:01:26,207 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 19:01:26,243 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 19:01:27,311 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 19:01:27,311 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 19:01:27,361 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 19:01:27,523 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：账号不存在!
+2023-03-30 19:01:28,530 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 19:01:28,530 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 19:01:28,579 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 19:01:28,588 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 19:01:28,602 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 19:01:28,705 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 19:01:28,705 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 19:01:28,741 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 19:01:28,793 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 19:01:28,804 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 19:01:28,834 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 19:01:29,874 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 19:01:29,874 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 19:01:29,913 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 19:01:29,936 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：用户名不能为空!
+2023-03-30 19:01:30,942 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 19:01:30,943 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 19:01:30,983 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 19:01:30,987 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 19:01:31,002 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 19:01:31,062 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 19:01:31,068 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 19:01:31,100 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 19:01:31,138 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 19:01:31,154 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 19:01:31,169 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 19:01:32,241 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 19:01:32,241 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 19:01:32,274 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 19:01:32,432 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：密码错误!
+2023-03-30 19:01:33,440 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 19:01:33,440 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 19:01:33,479 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 19:01:33,485 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 19:01:33,501 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 19:01:33,571 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 19:01:33,571 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 19:01:33,604 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 19:01:33,635 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 19:01:33,635 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 19:01:33,668 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 19:01:34,741 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 19:01:34,741 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 19:01:34,775 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 19:01:34,796 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：密码不能为空!
+2023-03-30 19:01:35,809 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 19:01:35,809 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 19:01:35,846 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 19:01:35,851 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 19:01:35,869 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 19:01:35,940 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 19:01:35,945 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 19:01:35,970 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 19:01:36,021 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 19:01:36,033 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 19:01:36,062 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 19:01:37,107 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 19:01:37,107 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 19:01:37,143 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 19:01:37,164 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：验证码不能为空!
+2023-03-30 19:01:38,173 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 19:01:38,173 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 19:01:38,214 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 19:01:38,217 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 19:01:38,235 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 19:01:38,309 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 19:01:38,317 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 19:01:38,334 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 19:01:38,392 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 19:01:38,401 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 19:01:38,422 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 19:01:39,474 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 19:01:39,474 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 19:01:39,505 INFO [root] [base.py | base_find:20] - 正在定位[link text:我的商城]
+2023-03-30 19:01:39,942 INFO [root] [base.py | base_get_text:53] - 正在获取('link text', '我的商城')元素文本：我的商城
+2023-03-30 20:01:09,943 INFO [root] [base.py | base_click:43] - 正在对[link text:登录]元素进行点击
+2023-03-30 20:01:09,943 INFO [root] [base.py | base_find:20] - 正在定位[link text:登录]
+2023-03-30 20:07:27,988 INFO [root] [base.py | base_click:43] - 正在对[link text:登录]元素进行点击
+2023-03-30 20:07:27,988 INFO [root] [base.py | base_find:20] - 正在定位[link text:登录]
+2023-03-30 20:07:28,273 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:07:28,290 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:07:28,327 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:07:28,377 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:07:28,390 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:07:28,422 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:07:28,495 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:07:28,508 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:07:28,542 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:07:29,615 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:07:29,615 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:07:29,668 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 20:07:29,830 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：账号不存在!
+2023-03-30 20:07:30,834 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 20:07:30,834 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 20:07:30,878 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:07:30,880 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:07:30,905 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:07:30,958 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:07:30,988 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:07:31,028 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:07:31,075 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:07:31,090 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:07:31,129 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:07:32,184 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:07:32,184 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:07:32,227 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 20:07:32,251 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：用户名不能为空!
+2023-03-30 20:07:33,261 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 20:07:33,261 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 20:07:33,302 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:07:33,306 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:07:33,321 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:07:33,390 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:07:33,390 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:07:33,423 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:07:33,475 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:07:33,475 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:07:33,520 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:07:34,562 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:07:34,562 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:07:34,597 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 20:07:34,756 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：密码错误!
+2023-03-30 20:07:35,760 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 20:07:35,760 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 20:07:35,799 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:07:35,807 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:07:35,820 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:07:35,895 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:07:35,904 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:07:35,921 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:07:35,970 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:07:35,973 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:07:36,011 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:07:37,061 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:07:37,061 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:07:37,102 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 20:07:37,125 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：密码不能为空!
+2023-03-30 20:07:38,127 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 20:07:38,127 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 20:07:38,164 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:07:38,170 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:07:38,186 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:07:38,258 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:07:38,258 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:07:38,287 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:07:38,340 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:07:38,340 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:07:38,376 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:07:39,426 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:07:39,426 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:07:39,464 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 20:07:39,487 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：验证码不能为空!
+2023-03-30 20:07:40,493 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 20:07:40,493 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 20:07:40,534 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:07:40,537 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:07:40,570 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:07:40,628 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:07:40,636 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:07:40,662 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:07:40,709 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:07:40,721 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:07:40,748 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:07:41,793 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:07:41,793 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:07:41,825 INFO [root] [base.py | base_find:20] - 正在定位[link text:我的商城]
+2023-03-30 20:07:42,285 INFO [root] [base.py | base_get_text:53] - 正在获取('link text', '我的商城')元素文本：我的商城
+2023-03-30 20:09:51,781 INFO [root] [base.py | base_click:43] - 正在对[link text:登录]元素进行点击
+2023-03-30 20:09:51,782 INFO [root] [base.py | base_find:20] - 正在定位[link text:登录]
+2023-03-30 20:09:52,069 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:09:52,084 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:09:52,121 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:09:52,174 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:09:52,185 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:09:52,217 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:09:52,279 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:09:52,291 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:09:52,323 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:09:53,391 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:09:53,391 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:09:53,441 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 20:09:53,601 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：账号不存在!
+2023-03-30 20:09:54,610 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 20:09:54,610 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 20:09:54,660 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:09:54,669 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:09:54,697 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:09:54,765 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:09:54,775 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:09:54,812 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:09:54,869 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:09:54,892 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:09:54,930 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:09:55,995 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:09:55,995 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:09:56,035 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 20:09:56,057 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：
+2023-03-30 20:09:57,234 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 20:09:57,234 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 20:09:57,277 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:09:57,277 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:09:57,308 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:09:57,364 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:09:57,375 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:09:57,393 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:09:57,451 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:09:57,459 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:09:57,494 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:09:58,549 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:09:58,549 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:09:58,585 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 20:09:58,725 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：密码错误!
+2023-03-30 20:09:59,730 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 20:09:59,730 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 20:09:59,770 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:09:59,777 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:09:59,811 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:09:59,877 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:09:59,877 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:09:59,910 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:09:59,941 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:09:59,961 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:09:59,994 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:10:01,049 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:10:01,049 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:10:01,087 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 20:10:01,116 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：密码不能为空!
+2023-03-30 20:10:02,131 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 20:10:02,131 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 20:10:02,170 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:10:02,174 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:10:02,207 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:10:02,263 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:10:02,263 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:10:02,291 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:10:02,344 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:10:02,344 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:10:02,381 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:10:03,429 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:10:03,429 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:10:03,467 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 20:10:03,487 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：
+2023-03-30 20:10:04,641 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 20:10:04,641 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 20:10:04,679 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:10:04,685 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:10:04,709 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:10:04,767 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:10:04,775 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:10:04,806 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:10:04,842 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:10:04,860 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:10:04,885 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:10:05,946 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:10:05,946 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:10:05,980 INFO [root] [base.py | base_find:20] - 正在定位[link text:我的商城]
+2023-03-30 20:10:06,423 INFO [root] [base.py | base_get_text:53] - 正在获取('link text', '我的商城')元素文本：我的商城
+2023-03-30 20:13:05,616 INFO [root] [base.py | base_click:43] - 正在对[link text:登录]元素进行点击
+2023-03-30 20:13:05,616 INFO [root] [base.py | base_find:20] - 正在定位[link text:登录]
+2023-03-30 20:13:05,912 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:13:05,929 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:13:05,964 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:13:06,016 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:13:06,028 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:13:06,062 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:13:06,126 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:13:06,140 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:13:06,173 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:13:08,241 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:13:08,241 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:13:08,295 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 20:13:08,453 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：账号不存在!
+2023-03-30 20:13:09,460 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 20:13:09,460 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 20:13:09,507 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:13:09,515 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:13:09,535 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:13:09,588 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:13:09,602 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:13:09,638 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:13:09,676 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:13:09,689 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:13:09,725 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:13:11,778 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:13:11,778 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:13:11,820 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 20:13:11,844 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：用户名不能为空!
+2023-03-30 20:13:12,857 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 20:13:12,857 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 20:13:12,896 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:13:12,903 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:13:12,918 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:13:12,978 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:13:12,984 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:13:13,001 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:13:13,053 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:13:13,072 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:13:13,103 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:13:15,196 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:13:15,196 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:13:15,231 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 20:13:15,369 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：密码错误!
+2023-03-30 20:13:16,373 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 20:13:16,373 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 20:13:16,417 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:13:16,421 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:13:16,451 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:13:16,520 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:13:16,520 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:13:16,554 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:13:16,586 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:13:16,603 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:13:16,636 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:13:18,695 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:13:18,695 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:13:18,731 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 20:13:18,753 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：密码不能为空!
+2023-03-30 20:13:19,756 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 20:13:19,756 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 20:13:19,795 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:13:19,800 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:13:19,816 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:13:19,900 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:13:19,900 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:13:19,916 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:13:19,984 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:13:19,991 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:13:20,022 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:13:22,076 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:13:22,076 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:13:22,114 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-content]
+2023-03-30 20:13:22,138 INFO [root] [base.py | base_get_text:53] - 正在获取('css selector', '.layui-layer-content')元素文本：验证码不能为空!
+2023-03-30 20:13:23,140 INFO [root] [base.py | base_click:43] - 正在对[css selector:.layui-layer-btn0]元素进行点击
+2023-03-30 20:13:23,140 INFO [root] [base.py | base_find:20] - 正在定位[css selector:.layui-layer-btn0]
+2023-03-30 20:13:23,180 INFO [root] [base.py | base_find:20] - 正在定位[id:username]
+2023-03-30 20:13:23,183 INFO [root] [base.py | base_input:32] - 正在对[id:username]输入框进行清空
+2023-03-30 20:13:23,199 INFO [root] [base.py | base_input:34] - 正在对[id:username]输入框输入内容
+2023-03-30 20:13:23,270 INFO [root] [base.py | base_find:20] - 正在定位[id:password]
+2023-03-30 20:13:23,270 INFO [root] [base.py | base_input:32] - 正在对[id:password]输入框进行清空
+2023-03-30 20:13:23,302 INFO [root] [base.py | base_input:34] - 正在对[id:password]输入框输入内容
+2023-03-30 20:13:23,353 INFO [root] [base.py | base_find:20] - 正在定位[id:verify_code]
+2023-03-30 20:13:23,353 INFO [root] [base.py | base_input:32] - 正在对[id:verify_code]输入框进行清空
+2023-03-30 20:13:23,385 INFO [root] [base.py | base_input:34] - 正在对[id:verify_code]输入框输入内容
+2023-03-30 20:13:25,443 INFO [root] [base.py | base_click:43] - 正在对[class name:J-login-submit]元素进行点击
+2023-03-30 20:13:25,443 INFO [root] [base.py | base_find:20] - 正在定位[class name:J-login-submit]
+2023-03-30 20:13:25,480 INFO [root] [base.py | base_find:20] - 正在定位[link text:我的商城]
+2023-03-30 20:13:25,914 INFO [root] [base.py | base_get_text:53] - 正在获取('link text', '我的商城')元素文本：我的商城

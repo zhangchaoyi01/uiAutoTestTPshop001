@@ -1,0 +1,12 @@
+login01:
+  username: 17600682212
+  pwd: 123123
+  code: 8888
+  expect: 账号不存在!
+  success: False
+login02:
+  username: 17600682222
+  pwd: 123123
+  code: 8888
+  expect: 我的商城
+  success: True
